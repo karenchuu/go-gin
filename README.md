@@ -1,7 +1,7 @@
 # go-gin
 HTTP REST Server in Go using Gin (for learning purposes)
 
-* Router
+* Routing
   * GET
   * POST
   * Map
